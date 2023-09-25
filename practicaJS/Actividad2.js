@@ -13,4 +13,3 @@ console.log(myString + " es de tipo " + typeof myString);
 console.log(myNumber + myString);
 
 console.log(myObject.name + " " + myObject.surname + " tiene " + myObject.age + " años");
-
